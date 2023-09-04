@@ -3,6 +3,8 @@ title: Knowledge
 description: Knowledge homepage
 ---
 
+
+<article name="Knowledge">
 # Welcome to the RadiantOne Identity Data Management!
 
 Harness your identity data with intelligent integration to drive better business outcomes, improve security and compliance posture, increase speed-to-market, and more. Browse below to learn more about the capabilities and components that comprise Identity Data Management and link to the user guides to help get you started.
@@ -62,7 +64,9 @@ Harness your identity data with intelligent integration to drive better business
   
 </section>
 
+</article>
 
+<article name="Developer">
 ## RadiantOne Directory
 
 <section>
@@ -113,3 +117,4 @@ Harness your identity data with intelligent integration to drive better business
   > Learn how to monitor RadiantOne Synchronization and configure alerts for concerning activities.
   
 </section>
+</article>
