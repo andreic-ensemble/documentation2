@@ -3,7 +3,8 @@ title: Homepage 1
 description: Homepage 1 Description
 ---
 
-<article title="Knowledge">
+<area title="Knowledge">
+  
 # Welcome to the RadiantOne Intelligent Identity Data Platform!
 
 Harness your identity data with intelligent integration to drive better business outcomes, improve security and compliance posture, increase speed-to-market, and more. Browse below to learn more about the products that comprise the platform and link to the user guides to help get you started.
@@ -72,9 +73,9 @@ Harness your identity data with intelligent integration to drive better business
   
 </section>
 
-</article>
+</area>
 
-<article title="developer">
+<area title="developer">
   
 ## RadiantOne Global Synchronization
 
@@ -103,4 +104,4 @@ Harness your identity data with intelligent integration to drive better business
   
 </section>
 
-</article>
+</area>
