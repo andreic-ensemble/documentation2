@@ -7,7 +7,6 @@ description: Knowledge homepage
   <tablist>
     <tab>Knowledge</tab>
   </tablist>
-</tabs>
 
 <tabpanels>
   <tabpanel>
