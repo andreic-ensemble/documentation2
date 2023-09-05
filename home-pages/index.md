@@ -6,6 +6,7 @@ description: Knowledge homepage
 <tabs>
   <tablist>
     <tab>Knowledge</tab>
+    <tab>Developer</tab>
   </tablist>
 
 <tabpanels>
@@ -70,7 +71,8 @@ Harness your identity data with intelligent integration to drive better business
   
 </section>
 
-  
+</tabpanel>
+<tabpanel>
 ## RadiantOne Directory
 
 <section>
