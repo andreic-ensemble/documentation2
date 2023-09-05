@@ -3,14 +3,14 @@ title: Knowledge
 description: Knowledge homepage
 ---
 
-<Tabs>
-  <TabList>
-    <Tab>Knowledge</Tab>
-  </TabList>
-</Tabs>
+<tabs>
+  <tab-list>
+    <tab>Knowledge</tab>
+  </tab-list>
+</tabs>
 
-<TabPanels>
-  <TabPanel>
+<tab-panels>
+  <tab-panel>
     
 # Welcome to the RadiantOne Identity Data Management!
 
@@ -122,5 +122,5 @@ Harness your identity data with intelligent integration to drive better business
   > Learn how to monitor RadiantOne Synchronization and configure alerts for concerning activities.
   
 </section>
-</TabPanel>
-</TabPanels>
+</tab-panel>
+</tab-panels>
