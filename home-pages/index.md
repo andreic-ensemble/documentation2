@@ -4,7 +4,7 @@ description: Knowledge homepage
 ---
 
 
-<area title="Knowledge">
+<article title="Knowledge">
   
 # Welcome to the RadiantOne Identity Data Management!
 
@@ -65,9 +65,9 @@ Harness your identity data with intelligent integration to drive better business
   
 </section>
 
-</area>
+</article>
 
-<area title="Developer">
+<article title="Developer">
   
 ## RadiantOne Directory
 
@@ -119,4 +119,4 @@ Harness your identity data with intelligent integration to drive better business
   > Learn how to monitor RadiantOne Synchronization and configure alerts for concerning activities.
   
 </section>
-</area>
+</article>
